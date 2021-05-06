@@ -1,0 +1,13 @@
+body{
+    background-color:aqua
+}
+
+#camera
+ {
+     border: 2px dashed black; 
+ }
+
+ .name_of_objects, #result_object_name , #result_object_accuracy 
+  { 
+      color: yellow;
+  }
